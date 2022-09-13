@@ -22,5 +22,11 @@
         "name": "Car",
         "price": 30000,
         "imgUrl": "/imgs/car.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Yassen",
+        "price": 0.50,
+        "imgUrl": "/imgs/yassen.jpg"
     }
 ]
